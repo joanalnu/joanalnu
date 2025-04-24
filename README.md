@@ -1,12 +1,12 @@
 👋 Hi, I’m @joanalnu
 ---
 
-- 👀 I’m interested in ... physics, astronomy, mathematics, science! I want to pursue a career in one of these fields.
-- 🌱 I’m currently learning ... In terms of coding I began with C++ but now I'm in love with python. I'm always learning new things for coding. Aside from this, I'm currently in 12th grade and I enjoy learning maths, physics and astro-stuff :)
-- 💞️ I’m collaborating on ... I'm leading a group on cosmic rays research.
+- 👀 I’m interested in ... cosmology and high-energy astrophyscs!
+- 🌱 I’m currently learning ... always learning new coding skills, currently focussed on model fitting with MCMC.
+- 💞️ I’m collaborating on ... I'll be soon collaborating with INAF on cosmological uses of GRBs. Aside from my main research, I'm leading a high-school/undergrad group on launching a cosmic ray detector to space (@capibara3).
 - 📫 How to reach me ... see my [personal website](https://joanalnu.github.io/) or reach out to me at [joanalnu@outlook.com](mailto:joanalnu@outlook.com)
 - 😄 Pronouns: ... he/him/his
-- ⚡ Fun fact: ... I speak 4 languages (2 local and 2 foreign) at a professional level.
+- ⚡ Fun fact: ... I speak 4 languages (2 local and 2 foreign) at a professional level, currenlty also learning Italian 🇮🇹.
 - 🎹 Music: I also enjoy playing the piano, mostly like jazz, blues, and modern/contemporany music.
 
 ## 📈 Github Stats
