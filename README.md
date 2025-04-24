@@ -18,7 +18,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=joanalnu&show_icons=true&theme=midnight-purple" height=220 />
   </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joanalnu&&theme=tokyonight" alt="joanalnu" /></p>
 
 <!---
 joanalnu/joanalnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
