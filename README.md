@@ -1,7 +1,7 @@
 👋 Hi, I’m @joanalnu
 ---
 
-- 👀 I’m interested in ... cosmology and high-energy astrophyscs!
+- 👀 I’m interested in ... cosmology and high-energy astrophysics!
 - 🌱 I’m currently learning ... always learning new coding skills, currently focussed on model fitting with MCMC.
 - 💞️ I’m collaborating on ... I'll be soon collaborating with INAF on cosmological uses of GRBs. Aside from my main research, I'm leading a high-school/undergrad group on launching a cosmic ray detector to space (@capibara3).
 - 📫 How to reach me ... see my [personal website](https://joanalnu.github.io/) or reach out to me at [joanalnu@outlook.com](mailto:joanalnu@outlook.com)
