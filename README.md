@@ -12,9 +12,9 @@
 
 ## 📈 Github Stats
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=temuller&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=temuller&layout=compact&langs_count=8&theme=midnight-purple"/>
+<a href="">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joanalnu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joanalnu&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
 
