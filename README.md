@@ -1,15 +1,15 @@
 👋 Hi, I’m @joanalnu
 ---
 
-👀 I’m interested in ... cosmology and multi-messenger astronomy!
+👀 I’m interested in ... the mystery of dark energy and work towards jointly using gamma-ray bursts (GRB) and gravitational wave (GW) detections to contraint cosmological parameters via bayesian inference!
 
 🌱 I’m currently learning ... as a Physics BSc student at [LMU Munich](https://www.physik.lmu.de), plus always learning new coding skills, currently focussed on model fitting with MCMC.
 
-💞️ I’m collaborating on ... research on joint GRB + GW constraint on cosmological parameters I'll be soon collaborating with INAF on cosmological uses of GRBs. Aside from my main research, I'm leading a high-school/undergrad group on launching a cosmic ray detector to space (@capibara3).
+💞️ I’m collaborating on ... GRB empirical correlation fitting for cosmology in collaboration with researchers at the INAF. Besides I founded and lead the COSMOS program within the CAPIBARA Collaboration, a student group aiming to launch satellites for $\gamma$-ray & X-ray observations in the multi-messenger astronomy era.
 
 📫 How to reach me ... see my [personal website](https://joanalnu.github.io/) or reach out directly to me via [email](https://joanalnu.github.io/contact).
 
-😄 Pronouns: ... he/him
+😄 Pronouns: ... he/him/his
 
 ⚡ Fun fact: ... I speak English 🇬🇧, Spanish 🇪🇸, German 🇩🇪, Catalan, a little bit of Italian 🇮🇹 and slowly learning my first Mandarin Chinese 🇨🇳.
 
