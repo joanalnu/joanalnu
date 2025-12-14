@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning ... as a Physics BSc student at [LMU Munich](https://www.physik.lmu.de), plus always learning new coding skills, currently focussed on model fitting with MCMC.
 
-💞️ I’m collaborating on ... GRB empirical correlation fitting for cosmology in collaboration with researchers at the INAF. Besides I founded and lead the COSMOS program within the CAPIBARA Collaboration, a student group aiming to launch satellites for $\gamma$-ray & X-ray observations in the multi-messenger astronomy era.
+💞️ I’m collaborating on ... GRB empirical correlation fitting for cosmology in collaboration with researchers at the INAF. Besides I founded and lead the COSMOS program within the [CAPIBARA Collaboration](https://capibara3.github.io), a student group aiming to launch satellites for $\gamma$-ray & X-ray observations in the multi-messenger astronomy era.
 
 📫 How to reach me ... see my [personal website](https://joanalnu.github.io/) or reach out directly to me via [email](https://joanalnu.github.io/contact).
 
