@@ -15,7 +15,5 @@ I prioritize the development of reproducible, open-source, self-contained comput
 | **[OAB-INAF]** | $\chi^2$ tests for $H_0-\Omega_\mathrm{m}-\Omega_\Lambda$ constraints from public GRB observations and BNS simulations |
 | **[cosmos-cosmology]** | Exploring the potential of multi-messenger cosmology within the CAPIBARA-COSMOS program |
 
-- **Methodology:** Currently refining implementations of Nested Sampling and MCMC algorithms for non-linear cosmological datasets.
-
 ### Correspondence
 For research inquiries, data access, or collaboration proposals, please refer to my **[website](https://joanalnu.github.io/contact.html)**.
