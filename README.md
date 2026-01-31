@@ -2,8 +2,6 @@
 
 **Physics BSc Student, LMU Munich** *Multi-Messenger Cosmology | Bayesian Inference*
 
----
-
 ### Research Focus
 I am a physics student and researcher focused on the intersection of **Electromagnetic (EM)** and **Gravitational-Wave (GW)** astronomy. I am learning to use statistical frameworks using Python to estimate cosmological parameters from Gamma-Ray Burst (GRB) and GW detections, aiming to understand the underlying physical nature of dark energy and to discern the accurate model of the universe.
 
