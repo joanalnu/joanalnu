@@ -11,9 +11,9 @@ I prioritize the development of reproducible, open-source, self-contained comput
 *Repositories containing active or past research code.*
 | Project | Description |
 | :--- | :--- |
-| **[multi-messenger-cosmology]** | Currently refining implementations of Bayesian Inference, Nested Sampling and MCMC algorithms for advanced parameter estimations and physical modeling |
-| **[OAB-INAF]** | $\chi^2$ tests for $H_0-\Omega_\mathrm{m}-\Omega_\Lambda$ constraints from public GRB observations and BNS simulations |
-| **[cosmos-cosmology]** | Exploring the potential of multi-messenger cosmology within the CAPIBARA-COSMOS program |
+| **[multi-messenger-cosmology](https://github.com/joanalnu/multi-messenger-cosmology)** | Currently refining implementations of Bayesian Inference, Nested Sampling and MCMC algorithms for advanced parameter estimations and physical modeling |
+| **[OAB-INAF](https://github.com/joanalnu/oab-inaf)** | $\chi^2$ tests for $H_0-\Omega_\mathrm{m}-\Omega_\Lambda$ constraints from public GRB observations and BNS simulations |
+| **[cosmos-cosmology](https://github.com/capibara3/cosmos-cosmology)** | Exploring the potential of multi-messenger cosmology within the CAPIBARA-COSMOS program |
 
 ### Correspondence
 For research inquiries, data access, or collaboration proposals, please refer to my **[website](https://joanalnu.github.io/contact.html)**.
