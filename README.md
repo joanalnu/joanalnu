@@ -10,7 +10,7 @@ I prioritize the development of reproducible, open-source, self-contained comput
 ### Selected Repositories
 *Repositories containing active or past research code.*
 | Project | Description |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **[multi-messenger-cosmology]** | Currently refining implementations of Bayesian Inference, Nested Sampling and MCMC algorithms for advanced parameter estimations and physical modeling |
 | **[OAB-INAF]** | $\chi^2$ tests for $H_0-\Omega_\mathrm{m}-\Omega_\Lambda$ constraints from public GRB observations and BNS simulations |
 | **[cosmos-cosmology]** | Exploring the potential of multi-messenger cosmology within the CAPIBARA-COSMOS program |
