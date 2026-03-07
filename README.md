@@ -17,3 +17,17 @@ I prioritize the development of reproducible, open-source, self-contained comput
 
 ### Correspondence
 For research inquiries, data access, or collaboration proposals, please refer to my **[website](https://joanalnu.github.io/contact.html)**.
+
+---
+<details>
+    <summary>Removed Repositories</summary>
+    This is a list or previous <b>public</b> archived repositories which were finally stored elsewhere.
+    <ul>
+      <li>DNAbio</li>
+      <li>Genetics10</li>
+      <li>MCG</li>
+      <li>TdM</li>
+      <li>WCS</li>
+    </ul>
+  
+</details>
